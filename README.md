@@ -1,3 +1,5 @@
+@mui/material @emotion/react @emotion/styled @mui/icons-material @mui/styles @chec/commerce.js @stripe/react-stripe-js @stripe/stripe-js react-router-dom react-hook-form
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
